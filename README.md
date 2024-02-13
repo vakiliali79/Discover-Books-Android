@@ -12,6 +12,8 @@ Manage your reading journey with BookTracker - the ultimate companion for book e
 
 ## Installation and Execution
 
+[Download APK](https://github.com/vakiliali79/Discover-Books-Android/blob/master/Discover-Books.apk)
+
 To install and run the BookTracker app, follow these steps:
 
 1. Clone the project:
